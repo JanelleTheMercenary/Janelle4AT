@@ -1,0 +1,217 @@
+body {
+font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+
+h1 {
+font-family: 'Amatic', sans-serif;
+  font-size: 5rem;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+h2 {
+  font-family: 'Amatic', sans-serif;
+ color: #1eb2a6;
+ font-size: 3rem;
+}
+
+h3 {
+  font-weight: bold;
+  color: #1eb2a6;
+}
+
+p {
+  color: #8f8f8f
+}
+
+.container-header {
+  padding: 3% 15% 7%;
+}
+
+.container-body {
+  padding: 7% 15%;
+}
+
+.container-footer {
+  padding: 3% 15%;
+}
+
+.order-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Sections */
+
+.dark-section {
+  background-color: #f67575;
+  color: #fff;
+}
+
+.dark-section p {
+  color: #fff;
+}
+
+.dark-section h1, h2, h3 {
+  color: #d4f8e8;
+}
+
+.light-section {
+  background-color: #d4f8e8;
+}
+
+.light-section h1, h2, h3 {
+  color: #1eb2a6;
+}
+
+.blue-section {
+  background-color: #1eb2a6;
+}
+
+.blue-section h2 {
+  color: #d4f8e8;
+  text-align: center;
+}
+
+.blue-section p {
+  color: #fff;
+}
+
+/* Header Section  */
+
+.navbar-brand {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-family: 'Cabin Condensed', sans-serif;
+  font-size: 1.2rem;
+}
+
+.nav-item {
+  padding: 0 8px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+#title {
+  text-align: left;
+}
+
+.header-image {
+  width: 75%;
+}
+
+@media (max-width: 1024px) {
+  #title {
+    text-align: center;
+  }
+  .titleimage {
+    width: 50%;
+  }
+}
+
+.highlight-text {
+  color: #ffa34d;
+  font-weight: bold;
+}
+
+.highlight-word {
+  color: #ffa34d;
+
+}
+
+/* Excite section */
+
+.excite {
+  padding: 5%;
+}
+
+.excite-icon {
+  color: #f67575;
+  margin-bottom: 1rem;
+}
+
+.excite-icon:hover {
+  color: #ffa34d;
+}
+
+.section-image {
+  width: 95%;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
+.section-question {
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+.section-text {
+  text-align: left;
+}
+
+.light-blue {
+  color: #d4f8e8;
+}
+
+/* Experience section  */
+
+.experience {
+  padding: 5%;
+}
+
+.experience-icon {
+  width: 95%;
+}
+
+#experience {
+  background-color: #ffa34d;
+}
+
+.highlight-word-blue {
+  color: #1eb2a6;
+}
+
+/* innovate and improve section */
+
+.custom-hr {
+  text-align: center;
+  padding: 5% 0;
+}
+
+.line-span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.outer-line {
+  width: 20%;
+  border-bottom: 4px dotted #1eb2a6;
+}
+
+.running-icon {
+    color: #ffa34d;
+    font-size: 1.5rem;
+}
+
+/* footer */
+
+.footericon {
+  padding: 20px 10px;
+  color: #d4f8e8;
+  text-decoration: none;
+}
+
+.footericon:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-heading {
+  color: #d4f8e8;
+  text-align: center;
+}
