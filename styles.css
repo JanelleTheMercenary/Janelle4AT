@@ -215,3 +215,7 @@ p {
   color: #d4f8e8;
   text-align: center;
 }
+
+.footertext {
+  font-size: small;
+}
