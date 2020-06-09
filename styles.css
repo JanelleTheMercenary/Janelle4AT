@@ -16,6 +16,11 @@ h2 {
  font-size: 3rem;
 }
 
+.signText {
+  color: #d4f8e8;
+  font-size: 2rem;
+}
+
 h3 {
   font-weight: bold;
   color: #1eb2a6;
@@ -23,6 +28,16 @@ h3 {
 
 p {
   color: #8f8f8f
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #d4f8e8;
 }
 
 .container-header {
@@ -91,6 +106,7 @@ p {
 
 .nav-item {
   padding: 0 8px;
+  text-decoration: none;
 }
 
 .navbar {
@@ -103,6 +119,11 @@ p {
 
 .header-image {
   width: 75%;
+}
+
+.thankyou-image {
+  width: 95%;
+  margin-top: 10%;
 }
 
 @media (max-width: 1024px) {
@@ -214,6 +235,7 @@ p {
 .footer-heading {
   color: #d4f8e8;
   text-align: center;
+  text-decoration: none;
 }
 
 .footertext {
